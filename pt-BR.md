@@ -1,9 +1,9 @@
 # Helltaker para N-Switch
 Helltaker é um jogo projetado e desenvolvido por [Łukasz Piskorz (vanripperart)](https://twitter.com/vanripperart).
-O jogo só foi lançado para computador (PC) na [Steam](https://store.steampowered.com/app/1289310/Helltaker/) mas eu fiz um port para o Nintendo Switch, o jogo é gratuito (F2P) mas se você quiser e puder apoiar o desenvolvedor, você pode comprar o [Artbook and Pancake Recipe](https://store.steampowered.com/app/1298590/Helltaker_Artbook__Pancake_Recipe/) ou ser um [Patreon](https://www.patreon.com/vanripper).
+O jogo só foi lançado para computador (PC) na [Steam](https://store.steampowered.com/app/1289310/Helltaker/) mas [eu](https://github.com/D3fau4/Helltaker-switch) fiz um port para o Nintendo Switch, o jogo é gratuito (F2P) mas se você quiser e puder apoiar o desenvolvedor, você pode comprar o [Artbook and Pancake Recipe](https://store.steampowered.com/app/1298590/Helltaker_Artbook__Pancake_Recipe/) ou ser um [Patreon](https://www.patreon.com/vanripper).
 ## Helltaker
 ### Descrição
-Helltaker é um pequeno jogo sobre garotas demoníacas bem vestidas.
+Helltaker é um pequeno jogo sobre garotas demoníacas.
 ### Fotos
 ![Qlaunch](https://media.discordapp.net/attachments/519986961382113283/724541444169400372/ZfQ7.jpg)
 ![Settings](https://media.discordapp.net/attachments/519986961382113283/724541445339349042/G8rl.jpg)
@@ -52,4 +52,10 @@ e faça uma solicitação de pull (Pull Request) para meu repo e eu o adicionare
 
 * #### [베칸님](https://tgd.kr/naseongkim/40914696) pela tradução em coreano.
 
+* #### [kagerou01gata](https://steamcommunity.com/app/1289310/discussions/1/4666237625647679747/) pela tradução em Japonês.
+
 * #### [Nigh](https://steamcommunity.com/id/Niiigh) pela [tradução em Português do Brasil (pt-BR)](https://niigh.itch.io/helltaker-pt-br) e [MJr0019](https://github.com/MJr0019) por me dar acesso o json.
+
+## Download
+
+* ## Download disponível no repositório original em  ["Releases"](https://github.com/D3fau4/Helltaker-switch/releases)
