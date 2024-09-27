@@ -70,7 +70,7 @@ e faça uma solicitação de pull (Pull Request) para meu repo e eu o adicionare
 #### [Dr.Strangelove](https://steamcommunity.com/profiles/76561198161153302) pela tradução turca e ao [rewold20](https://www.youtube.com/channel/UC-GFibkDsoi3slamrKLusA) por me dar acesso os arquivos json.
 
 
-<details><summary><b> **Downloads** </b></summary>
+<details><summary><h1><b> Downloads </b></h1></summary>
 <p>
 
 ## Download disponível no repositório original em ["Releases"](https://github.com/D3fau4/Helltaker-switch/releases)
@@ -79,7 +79,7 @@ e faça uma solicitação de pull (Pull Request) para meu repo e eu o adicionare
 OU
 
 
-## Download disponível nesse repositório ["_Releases"](https://github.com/D3fau4/Helltaker-switch/releases)
+## Download disponível nesse repositório ["_Releases"](https://github.com/MJr0019/Helltaker-switch/blob/master/_releases)
 
 
 </p>
